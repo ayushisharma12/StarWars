@@ -1,0 +1,22 @@
+.bold {
+    font-weight: bold;
+}
+div.planets {
+    background: #f8f8f8;
+    width: 50%;
+    margin: 2px auto 5px auto;
+}
+
+.error {
+    color: red;
+    margin-left: 0.5rem;
+}
+
+.center div {
+    align-items: center;
+    position: relative;
+}
+
+button {
+    margin: 12px auto 5px auto;
+}
